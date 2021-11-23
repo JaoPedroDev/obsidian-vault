@@ -70,4 +70,4 @@ Funcionamento da interrupção:
 #hardware #computador #cpu
 # Veja Também
 - [[Sistemas de Computação]]
-- [[Unidade Central de Processamento(CPU)]]
+- [[Unidade Central de Processamento (CPU)]]

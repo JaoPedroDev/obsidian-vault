@@ -15,11 +15,11 @@ As funções de um computador são:
 - Exercer controle.
 
 A estrutura básica do computador:
-- [[Unidade Central de Processamento(CPU)]]:
+- [[Unidade Central de Processamento (CPU)]]:
 	- Processa os dados através da execução das instruções que compôem os programas.
 - [[Sistema de Armazenamento (Memórias)]]:
 	- Armazena dados e instruções. Normalmente um computador possui mais de uma memória, cada uma com sua especificidade.
-- Sistema de Entrada e Saídas (E?S):
+- [[Sistemas de Entrada e Saída (E e S)]]:
 	- Transfere dados entre o computador e o usuário.
 - [[Sistema de Interconexão (Barramentos)]]:
 	- Meios de comunicação entre a CPU, memórias e E/S.
@@ -34,11 +34,13 @@ A estrutura de uma CPU é a seguinte:
 - Interconexão da CPU (Barramento Interno):
 	- Conecta os diversos componentes da CPU.
 
-
-
 # Tags
 #hardware
 #computador
 #arquiteturadecomputação
 #organizacaodecomputação
 # Veja Também
+- [[Unidade Central de Processamento (CPU)]]
+- [[Sistemas de Entrada e Saída (E e S)]]
+- [[Sistema de Armazenamento (Memórias)]]
+- [[Sistema de Interconexão (Barramentos)]]

@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "e8fe3db9bc04d05e",
+    "id": "e56d6d68f2f69ae3",
     "type": "split",
     "children": [
       {
-        "id": "297b07a37f361acf",
+        "id": "cf14d933a7b2a24d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Memória Principal e Memória Cache.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pipeline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
+    "width": 347.5,
     "collapsed": true
   },
   "right": {
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memória Principal e Memória Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "297b07a37f361acf",
+  "active": "cf14d933a7b2a24d",
   "lastOpenFiles": [
-    "Memória Principal e Memória Cache.md",
+    "Processadores Superescalares.md",
+    "Pasted image 20211123135057.png",
+    "Pipeline da CPU.md",
+    "Conjunto Reduzido de Instruções (RISC).md",
+    "Arquitetura do Conjunto de Instruções (ISA).md",
+    "Ciclo de Instrução e Funcionamento da CPU.md",
     "Sistema de Armazenamento (Memórias).md",
-    "Sistemas de Computação.md",
-    "Sistema de Interconexão (Barramentos).md",
+    "Memória Secundária.md",
     "João Pedro.md",
-    "Unidade Central de Processamento(CPU).md",
-    "Markdown.md",
-    "Wordpress.md",
-    "Banco de Dados não relacional.md",
-    "Banco de Dados.md"
+    "Unidade Central de Processamento (CPU).md"
   ]
 }
