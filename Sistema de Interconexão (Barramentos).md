@@ -3,7 +3,7 @@ São os conectores dos componentes de um computador que funcionam em um determin
 Ex: entrada para placa de vídeo, memória ram, cabos de memória, USB, etc.
 
 Todo barramento carrega três tipos de informação:
-- Dados a srem lidos ou escritos.
+- Dados a serem lidos ou escritos.
 - Endereço: a posição (endereço de emória E/S) onde a informação será lida ou escrita.
 - Controle: Série de sinais digitais (bits) de controle para a efetivação das operações de leitura e escrita.
 
