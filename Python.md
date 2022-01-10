@@ -4,20 +4,20 @@ Linguagem de programação de alto nível, interpretada de script, imperativa, o
 Digitar "python" no terminal abre o interpretador interativo. Python lê o que for escrito e apresenta o resultado.
 
 ## Tipos de Dados
-Python suporta todos os tipos de dados básicos,e também possui dados compostos:
-Integers:
+Python suporta todos os tipos de dados básicos, e também possui dados compostos:
+### Integers:
 ```python
 	1 + 2
 	#return 3
 ```
 
-Floating point:
+### Floating point:
 ```python
 	1.5 + 2.5
 	#return 4.0
 ```
 
-Strings:
+### Strings:
 ```python
 	#duas
 	"hello world"
@@ -50,7 +50,7 @@ Escape codes
 "\n" indica nova linha
 "\t" indica um tab
 
-Listas:
+### [[Python - Listas]]:
 ```python
 	x = ["a", "b", "c"]
 	
@@ -62,8 +62,7 @@ Listas podem ser heterogeneas
 	x = ["ola", 1, 2, "word", ["another", "list"]]
 ```
 
-
-Tuples
+### Tuples:
 Usado para armazenar registro de largura fixos. São como listas, mas não podem ser alterados.
 ```python
 	point = (1, 3)
@@ -79,14 +78,14 @@ Usado para armazenar registro de largura fixos. São como listas, mas não podem
 	#return 255 255 0
 ```
 
-Dicionário:
+### Dicionário:
 ```python
 	person = {"name": "Alice", "email": "alice@exemple.com"}
 	person['name']
 	#return 'Alice'
 ```
 
-Set:
+### Set:
 Coleção de elementos não ordenados
 ```python
 	x = {1, 2, 3, 2, 1}
@@ -95,10 +94,10 @@ Coleção de elementos não ordenados
 	{1, 2, 3}
 ```
 
-Boolean:
+### Boolean:
 Representa dois valores, Verdadeiro ou Falso
 
-None:
+### None:
 Presenta "nada" ou vazio
 ```python
 	x = None
@@ -156,7 +155,7 @@ Contando o número de digitos em um número:
 ```
 **Nessecita de identação**, python usa a identação para dividir os blocos de código.
 
-Funções podem ser passadas como arhumentos.
+Funções podem ser passadas como argumentos.
 ```Python
 	f = square
 	f(4)
@@ -184,9 +183,9 @@ Para altera-las é necessario declarar explicitamente que são globais
 	#return 
 ```
 
-Lambda operator
+### Lambda operator
 ```Python
-	cube = lambda x: x** 3
+	cube = lambda x: x ** 3
 	fxy(cube, 2, 3)
 	#return 35
 	
@@ -195,8 +194,8 @@ Lambda operator
 ```
 
 Lambda não precisa de um "return", é uma expressão única.
-Usado frequentemente quando é necessário funcções pequenas a serem passadas como argumentos.
+Usado frequentemente quando é necessário funções pequenas a serem passadas como argumentos.
 # Tags
-
+#linguagemdeprogramacao #computador
 # Veja Também
 - 
