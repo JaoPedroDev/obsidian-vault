@@ -1,5 +1,4 @@
 # Roteiro de Estudos Data Science
-![[Pasted image 20220119201659.png]]
 
 ## Habilidades Necessárias
 ### Problemas
