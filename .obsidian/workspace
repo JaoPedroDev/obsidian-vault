@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Máquina Virtual.md",
+            "file": "Roteiro de Estudos Data Science.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Máquina Virtual.md",
+                "file": "Roteiro de Estudos Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "cf14d933a7b2a24d",
   "lastOpenFiles": [
+    "Roteiro de Estudos Data Science.md",
     "Máquina Virtual.md",
     "Processadores Superescalares.md",
     "Python - Listas.md",
@@ -105,7 +106,6 @@
     "Storage Area Network (SAN).md",
     "Wordpress.md",
     "Unidade Central de Processamento (CPU).md",
-    "Pasted image 20211123135057.png",
-    "Pipeline da CPU.md"
+    "Pasted image 20211123135057.png"
   ]
 }
