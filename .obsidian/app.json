@@ -13,5 +13,7 @@
   "useTab": true,
   "lineWrap": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "legacyEditor": false,
+  "livePreview": true
 }
