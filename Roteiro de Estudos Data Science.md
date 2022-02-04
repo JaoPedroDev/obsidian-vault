@@ -50,7 +50,7 @@
 - Pandas;
 - Manipulação de dados (groupby, filter, select, etc);
 - Matplotlib;
-- Projeto 3
+- Projeto 3.
 ### Tópico 4 - Machine Learning
 - Tipos de Aprendeizado de Máquina;
 - Classificação x Regressão;
