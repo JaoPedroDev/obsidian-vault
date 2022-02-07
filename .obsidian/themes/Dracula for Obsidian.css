@@ -1,6 +1,5 @@
 :root
 {
-/*
     --font-size-normal:              19px;
     --font-size-code:                16px;
     --font-size-side-dock:           16px;
@@ -14,7 +13,6 @@
     --font-size-h6:                  19px;
     --font-family-editor:            Avenir, Avenir Next, sans-serif;
     --font-family-preview:           Avenir, Avenir Next, sans-serif;
-*/
 } 
 
 .theme-light,
@@ -71,11 +69,11 @@
 /*     to jump to specific section     */
 /*-------------------------------------*/
 /*  resize-handle and borders          */
-/*                tags                 */
-/*                link                 */
+/*                tags               */
+/*             link              */
 /*                Cursor               */
-/* basic format in EDITOR and PREVIEW  */
-/* Headings - EDITOR and PREVIEW       */
+/* basic format in EDITOR and PREVIEW */
+/* Headings - EDITOR and PREVIEW */
 /*         Code block in  Preview      */
 /*       Code block in Editor          */
 /*              Brackets               */
@@ -286,48 +284,48 @@ img:hover {
 .cm-header-1, .markdown-preview-view h1
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h1);*/
+  font-weight: 500;
+  font-size: var(--font-size-h1);
   color: var(--text-title-h1);
 }
 
 .cm-header-2, .markdown-preview-view h2
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h2);*/
+  font-weight: 500;
+  font-size: var(--font-size-h2);
   color: var(--text-title-h2);
 }
 
 .cm-header-3, .markdown-preview-view h3
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h3);*/
+  font-weight: 500;
+  font-size: var(--font-size-h3);
   color: var(--text-title-h3);
 }
 
 .cm-header-4, .markdown-preview-view h4
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h4);*/
+  font-weight: 500;
+  font-size: var(--font-size-h4);
   color: var(--text-title-h4);
 }
 
 .cm-header-5, .markdown-preview-view h5
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h5);*/
+  font-weight: 500;
+  font-size: var(--font-size-h5);
   color: var(--text-title-h5);
 }
 
 .cm-header-6, .markdown-preview-view h6
 {
   font-family: var(--font-family-editor);
-  /*font-weight: 500;*/
-  /*font-size: var(--font-size-h6);*/
+  font-weight: 500;
+  font-size: var(--font-size-h6);
   color: var(--text-title-h6);
 }
 
@@ -571,20 +569,17 @@ color: var(--text-accent) !important;
 /*            Hide side bar            */
 /***************************************/
 
-/*
-.workspace-ribbon:not(:hover) .workspace-ribbon-collapse-btn, 
-.workspace-ribbon:not(:hover) .side-dock-actions, 
-.workspace-ribbon:not(:hover) .side-dock-settings {
-  display:none; 
-  transition: all 300ms ease-in-out;}
-.workspace-ribbon:not(:hover) {
-  width: 0px;
-  transition: all 300ms ease-in-out;}
+/* .workspace-ribbon:not(:hover) .workspace-ribbon-collapse-btn,  */
+/* .workspace-ribbon:not(:hover) .side-dock-actions,  */
+/* .workspace-ribbon:not(:hover) .side-dock-settings { */
+/*   display:none;  */
+/*   transition: all 300ms ease-in-out;} */
+/* .workspace-ribbon:not(:hover) { */
+/*   width: 0px; */
+/*   transition: all 300ms ease-in-out;} */
 
-.workspace-split.mod-left-split {margin-left: 0px;}
-.workspace-split.mod-right-split {margin-right: 0px;}
-
-*/
+/* .workspace-split.mod-left-split {margin-left: 0px;} */
+/* .workspace-split.mod-right-split {margin-right: 0px;} */
 
 /***************************************/
 /*           width of content          */

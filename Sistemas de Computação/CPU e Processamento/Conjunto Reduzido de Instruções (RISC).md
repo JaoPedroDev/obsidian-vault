@@ -1,5 +1,5 @@
 # Computador com Conjunto Reduzido de Instruções (RISC)
-No principio, o hardware que era o responsavel por executar os softwares, ou seja, eram criados mais e mais instruções de maquinas para cada caso especifico de cada programa. 
+No principio, o hardware que era o responsável por executar os softwares, ou seja, eram criados mais e mais instruções de maquinas para cada caso especifico de cada programa. 
 
 Porém isso veio a ser um problema, pois não havia um padrão entre os processadores e era dificil o desenvolvimento de programas através de codigo de maquina. Com isso surgiu a arquitetura RISC (Reduced Intruction-Set Computer), utilizando apenas as instruções mais utilizadas e otimizadas, obtendo um maior desempenho global.
 

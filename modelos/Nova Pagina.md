@@ -1,6 +1,0 @@
-# Heading
-
-# Tags
-
-# Veja Também
-- 

@@ -1,5 +1,5 @@
 # Benchmarks e Testes de Desempenho
-Benchmark é um processoe de pesquisa, contínuo e sistemático, para avaliar produtos, serviços e métodos de trabalho, com o propósito de melhoramento organizacional, procurando a superioridade competitiva.
+Benchmark é um processo de pesquisa, contínuo e sistemático, para avaliar produtos, serviços e métodos de trabalho, com o propósito de melhoramento organizacional, procurando a superioridade competitiva.
 
 ## Benefícios
 - Melhoria na tomada de decisões

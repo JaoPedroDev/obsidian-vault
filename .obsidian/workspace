@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf14d933a7b2a24d",
+        "id": "bbd1b0045ebd9f22",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roteiro de Estudos Data Science.md",
+            "file": "João Pedro.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -78,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro de Estudos Data Science.md",
+                "file": "João Pedro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -96,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf14d933a7b2a24d",
+  "active": "bbd1b0045ebd9f22",
   "lastOpenFiles": [
+    "João Pedro.md",
     "Roteiro de Estudos Data Science.md",
-    "Pasted image 20220119201659.png",
-    "Pasted image 20220119201659 1.png",
-    "Máquina Virtual.md",
-    "Processadores Superescalares.md",
-    "Python - Listas.md",
-    "Segurança de Dados na Nuvem.md",
-    "Sistema de Armazenamento (Memórias).md",
-    "Storage Area Network (SAN).md",
-    "Wordpress.md"
+    "Wordpress.md",
+    "Modelagem de Software/Análise Orientada a Objetos.md",
+    "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md",
+    "Banco de Dados/Classificação e Tratamento da Informação.md",
+    "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md",
+    "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+    "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md",
+    "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
   ]
 }

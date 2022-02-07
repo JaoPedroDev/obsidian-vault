@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "showFrontmatter": false,
   "showLineNumber": false,
   "tabSize": 4,
@@ -13,7 +13,10 @@
   "useTab": true,
   "lineWrap": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byCreatedTime",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ]
 }
