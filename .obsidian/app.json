@@ -13,10 +13,12 @@
   "useTab": true,
   "lineWrap": true,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "byModifiedTime",
   "legacyEditor": false,
   "livePreview": true,
   "spellcheckLanguages": [
     "pt-BR"
-  ]
+  ],
+  "newFileLocation": "current",
+  "vimMode": false
 }
