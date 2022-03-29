@@ -37,3 +37,4 @@ O método de modelagem passa a ser bottom-up. Na orientação a objetos a repres
 #desenvolvimento #software
 # Veja Também
 - [[Sistemas de Computação]]
+- [[Análise Orientada a Objetos]]

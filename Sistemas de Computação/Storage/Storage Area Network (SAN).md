@@ -15,6 +15,7 @@ Aqui está uma tabela mostra as diferenças de IP SAN vs FC SAN.
 IP SAN vs FC SAN, IP SAN é geralmente considerado como o menor custo, mais simples de gerenciar do que o FC SAN.  O FC SAN precisa de hardware especial, como comutadores de fibra ou adaptadores de barramento de host, enquanto a SAN IP requer apenas o hardware de rede Ethernet existente.  Portanto, o FC SAN é a plataforma de armazenamento ideal para muitos aplicativos essenciais aos negócios.  E IP SAN é a escolha adequada para as organizações que desejam uma solução econômica.
 
 # Tags
-
+#computador #armazenamento #bancodedados 
 # Veja Também
-- 
+- [[Sistemas de Computação]]
+- [[Sistema de Armazenamento (Memórias)]]

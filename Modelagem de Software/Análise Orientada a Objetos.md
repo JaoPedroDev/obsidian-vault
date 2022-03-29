@@ -17,7 +17,7 @@ O objetivo do princípio de Encapsulamento é ocultar dados e/ou operações exi
 ## Princípio do Polimorfismo
 A orientação a objetos permite que uma subclasse possa alterar o comportamento / forma como a sua superclasse executa determinada operação, mantendo o mesmo nome de operação. Essa possibilidade implica em um sistema poder ter múltiplas formas de execução.
 
-O exemplo abaixo mostra a capacidade do polimorfismo. A superclasse FiguraGeometrica é apenas uma simplificação do objeto real, indicando que toda figura geométrica tem uma quantidade de lados e que toda figura geométrica tem a operação _Desenha_. Entretanto, entende-se que a operação _Desenha_ irá modificar o seu comportamento de acordo com o tipo de figura geométrica que estiver sendo desenhada.
+O exemplo abaixo mostra a capacidade do polimorfismo. A superclasse Figura Geométrica é apenas uma simplificação do objeto real, indicando que toda figura geométrica tem uma quantidade de lados e que toda figura geométrica tem a operação _Desenha_. Entretanto, entende-se que a operação _Desenha_ irá modificar o seu comportamento de acordo com o tipo de figura geométrica que estiver sendo desenhada.
 
 ![](https://i.imgur.com/BQIFQGu.png)
 
@@ -25,3 +25,9 @@ O exemplo abaixo mostra a capacidade do polimorfismo. A superclasse FiguraGeomet
 #desenvolvimento #software #linguagemdeprogramacao 
 # Veja Também
 - [[Metodologias de Desenvolvimento de Sistemas]]
+- [[OOP - Abstração]]
+- [[OOP - Atributos]]
+- [[OOP - Operações]]
+- [[OOP - Classe e Objetos]]
+- [[OOP - Associação]]
+- [[OOP - Diagrama de Casos de Uso]]

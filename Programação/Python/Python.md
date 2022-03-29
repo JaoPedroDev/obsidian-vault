@@ -195,7 +195,8 @@ Para altera-las é necessario declarar explicitamente que são globais
 
 Lambda não precisa de um "return", é uma expressão única.
 Usado frequentemente quando é necessário funções pequenas a serem passadas como argumentos.
+
 # Tags
-#linguagemdeprogramacao #computador
+#linguagemdeprogramacao #computador #desenvolvimento 
 # Veja Também
-- 
+- [[Análise Orientada a Objetos]]
