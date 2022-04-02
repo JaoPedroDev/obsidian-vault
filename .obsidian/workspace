@@ -7,12 +7,8 @@
         "id": "36154f4255e1d293",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Modelagem de Software/OOP - Operações.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelagem de Software/OOP - Operações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,8 @@
   },
   "active": "36154f4255e1d293",
   "lastOpenFiles": [
+    "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
+    "Japonês/Hiragana - ひらがな.md",
     "Modelagem de Software/OOP - Operações.md",
     "Modelagem de Software/OOP - Atributos.md",
     "Modelagem de Software/OOP - Classe e Objetos.md",
@@ -113,8 +111,6 @@
     "Modelagem de Software/OOP - Diagrama de Classes.md",
     "Modelagem de Software/OOP - Diagrama de Objeto.md",
     "Modelagem de Software/OOP - Diagrama de Atividades.md",
-    "Modelagem de Software/OOP - Diagrama de Casos de Uso.md",
-    "Modelagem de Software/OOP - Associação.md",
-    "Sistemas de Computação/Storage/Sistemas de Backup.md"
+    "Modelagem de Software/OOP - Diagrama de Casos de Uso.md"
   ]
 }
