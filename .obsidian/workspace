@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -102,6 +101,7 @@
   },
   "active": "36154f4255e1d293",
   "lastOpenFiles": [
+    "Sistemas de Computação/Redes/Topologias de Redes.md",
     "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
     "Japonês/Hiragana - ひらがな.md",
     "Modelagem de Software/OOP - Operações.md",
@@ -110,7 +110,6 @@
     "Modelagem de Software/OOP - Abstração.md",
     "Modelagem de Software/OOP - Diagrama de Classes.md",
     "Modelagem de Software/OOP - Diagrama de Objeto.md",
-    "Modelagem de Software/OOP - Diagrama de Atividades.md",
-    "Modelagem de Software/OOP - Diagrama de Casos de Uso.md"
+    "Modelagem de Software/OOP - Diagrama de Atividades.md"
   ]
 }
