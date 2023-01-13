@@ -5,3 +5,5 @@ git add *
 DATE=$(date +'%d/%m/%Y %H:%M:%S')
 
 git commit -m "$DATE"
+
+git push
