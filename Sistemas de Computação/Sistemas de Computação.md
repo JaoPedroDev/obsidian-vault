@@ -4,7 +4,7 @@ Normalmente quando nos referimos a sistemas de computação é feita uma distin�
 Arquitetura do computador é o projeto de como será o funcionamento do computador, como ele irá se comportar. Lida com problemas em um contexto geral, de todo o computador.
 ex: Esse computador vai ter uma instrução de multiplicação? Sim
 
-Organização do computador é como realmente funciona o computador, em seus minimos detalhes (Transistores, ligações, etc.). Lida com problemas em um contexto focado em partes.
+Organização do computador é como realmente funciona o computador, em seus mínimos detalhes (Transistores, ligações, etc.). Lida com problemas em um contexto focado em partes.
 ex: A multiplicação vai ser uma unidade especifica para multiplicação ou será utilizado a unidade de soma repetidamente?
 
 ## Estrutura e Função dos Computadores
@@ -16,7 +16,7 @@ As funções de um computador são:
 
 A estrutura básica do computador:
 - [[Unidade Central de Processamento (CPU)]]:
-	- Processa os dados através da execução das instruções que compôem os programas.
+	- Processa os dados através da execução das instruções que compõem os programas.
 - [[Sistema de Armazenamento (Memórias)]]:
 	- Armazena dados e instruções. Normalmente um computador possui mais de uma memória, cada uma com sua especificidade.
 - [[Sistemas de Entrada e Saída (E e S)]]:

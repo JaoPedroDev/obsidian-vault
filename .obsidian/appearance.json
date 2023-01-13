@@ -1,7 +1,11 @@
 {
   "baseFontSize": 18,
   "translucency": false,
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "accentColor": "",
+  "nativeMenus": false
 }

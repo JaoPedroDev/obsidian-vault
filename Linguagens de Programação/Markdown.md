@@ -5,7 +5,7 @@
 - Italic, quando eu preciso *enfatizar algo* eu uso asterisco.
 - Negrito, dar atenção a **palavras-chaves**.
 - Lists. "-" no começo faz uma lista.
-- Headers. "#" mais espaço, titulos.
+- Headers. "#" mais espaço, títulos.
 
 # Tags
 #markdown #linguagemdemarcaco

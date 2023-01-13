@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
   "templates",
   "note-composer",
@@ -12,6 +13,5 @@
   "markdown-importer",
   "random-note",
   "word-count",
-  "open-with-default-app",
   "file-recovery"
 ]
