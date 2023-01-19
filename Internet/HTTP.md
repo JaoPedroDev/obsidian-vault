@@ -1,3 +1,5 @@
+# HTTP
+
 Hypertext Transfer Protocol(HTTP) é a basa da World Wide Web, e é usado para carregar paginas usando hypertext links. O fluxo de HTTP começa com o computador de alguém que acessa uma página na web mandando um *request* para o servidor, que então manda uma mensagem de resposta.
 
 ## HTTP request
